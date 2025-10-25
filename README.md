@@ -1,5 +1,5 @@
 # Next-Purchase-Date Prediction Model
-A machine learning pipeline for predicting which customers are most likely to make a repeat purchase after a specified cutoff date.
+A machine learning Next-Purchase-Date (NPD) pipeline for predicting which customers are most likely to make a repeat purchase after a specified cutoff date.
 The model is trained on past transaction history, builds behavioral (RFM/dynamic) features, and outputs a ranked list of user_id with purchase probabilities.
 
 ## Problem
